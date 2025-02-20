@@ -4,11 +4,23 @@
 
 Soy un **Frontend Developer** apasionado por la tecnología y el desarrollo web. Me considero una persona responsable, autodidacta y paciente, con una rápida capacidad de aprendizaje. Estoy en constante formación y exploración de nuevas tecnologías para mejorar mis habilidades y aportar soluciones innovadoras a mis proyectos.
 
+
 ## 🚀 Habilidades y Tecnologías
 
-- 🖥️ **Frontend:** JavaScript, Vue 2 / Vue 3, React.js, TypeScript, CSS / SCSS, HTML, Bootstrap
-- ⚙️ **Backend y DevOps:** PHP, Laravel, Blade, Docker, Git
-- 🛠️ **Herramientas y Otras Tecnologías:** Playwright, WordPress avanzado, Prestashop, Visual Studio Code, Terminal, Vite, Figma
+<div align="center">  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" alt="Docker" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.svg" alt="WordPress" height="50" /></a>  
+</div>
+
 
 ## 💼 Experiencia Profesional
 
